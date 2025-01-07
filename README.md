@@ -21,10 +21,10 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 ## Screenshots
 
 
-![Home Screen](./screenshots/s1.jpg)
-![Home Screen](./screenshots/s2.jpg)
-![Main screen](./screenshots/s3.jpg)
-![Game Screen](./screenshots/s4.jpg)
+![Home Screen](./screenshot/s1.jpg)
+![Home Screen](./screenshot/s2.jpg)
+![Main screen](./screenshot/s3.jpg)
+![Game Screen](./screenshot/s4.jpg)
 
 
 ## Getting Started
