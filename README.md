@@ -20,12 +20,13 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 
 ## Screenshots
 
+<img src="./screenshot/s1.jpeg" alt="Home Screen" width="300" height="600">
 
-![Home Screen](./screenshot/s1.jpeg)
-![Home Screen](./screenshot/s2.jpeg)
-![Main screen](./screenshot/s3.jpeg)
-![Game Screen](./screenshot/s4.jpeg)
+<img src="./screenshot/s2.jpeg" alt="Home Screen" width="300" height="600">
 
+<img src="./screenshot/s3.jpeg" alt="Main screen" width="300" height="600">
+
+<img src="./screenshot/s4.jpeg" alt="Game Screen" width="300" height="600">
 
 ## Getting Started
 
