@@ -20,7 +20,8 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 
 ## Screenshots
 
-[Add screenshots of your app here]
+Added later
+
 
 ## Getting Started
 
@@ -36,4 +37,8 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 
 ## License
 
-[Add your chosen license here]
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to explore, use, and contribute to this project! 😊
+
+
