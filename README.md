@@ -19,15 +19,12 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 - Implements clean architecture principles
 
 ## Screenshots
-
-<img src="./screenshot/s1.jpeg" alt="Home Screen" width="300" height="600">
-
-<img src="./screenshot/s2.jpeg" alt="Home Screen" width="300" height="600">
-
-<img src="./screenshot/s3.jpeg" alt="Main screen" width="300" height="600">
-
-<img src="./screenshot/s4.jpeg" alt="Game Screen" width="300" height="600">
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="./screenshot/s1.jpeg" alt="Home Screen" width="150" height="300">
+  <img src="./screenshot/s2.jpeg" alt="Home Screen" width="150" height="300">
+  <img src="./screenshot/s3.jpeg" alt="Main screen" width="150" height="300">
+  <img src="./screenshot/s4.jpeg" alt="Game Screen" width="150" height="300">
+</div>
 ## Getting Started
 
 1. Clone the repository
