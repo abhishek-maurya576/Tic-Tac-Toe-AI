@@ -45,8 +45,9 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 <div style="display: flex; justify-content: space-between;">
   <img src="./screenshot/s1.jpeg" alt="Home Screen" width="150" height="300">
   <img src="./screenshot/s2.jpeg" alt="Home Screen" width="150" height="300">
-  <img src="./screenshot/s3.jpeg" alt="Main screen" width="150" height="300">
-  <img src="./screenshot/s4.jpeg" alt="Game Screen" width="150" height="300">
+  <img src="./screenshot/s3.jpg" alt="Main screen" width="150" height="300">
+  <img src="./screenshot/s4.jpg" alt="Game Screen" width="150" height="300">
+   <img src="./screenshot/s5.jpg" alt="Game Screen" width="150" height="300">
 </div>
 
 ## Getting Started
