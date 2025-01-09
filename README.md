@@ -10,6 +10,10 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 - Portrait mode gameplay
 - Two-player local multiplayer
 
+## Upcoming Features 
+- Single player 
+- AI player 
+
 ## Technical Details
 
 - Built with Kotlin and Jetpack Compose
@@ -19,8 +23,12 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 - Implements clean architecture principles
 
 ## Screenshots
-
-[Add screenshots of your app here]
+<div style="display: flex; justify-content: space-between;">
+  <img src="./screenshot/s1.jpeg" alt="Home Screen" width="150" height="300">
+  <img src="./screenshot/s2.jpeg" alt="Home Screen" width="150" height="300">
+  <img src="./screenshot/s3.jpeg" alt="Main screen" width="150" height="300">
+  <img src="./screenshot/s4.jpeg" alt="Game Screen" width="150" height="300">
+</div>
 
 ## Getting Started
 
@@ -36,4 +44,8 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 
 ## License
 
-[Add your chosen license here]
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to explore, use, and contribute to this project! 😊
+
+
