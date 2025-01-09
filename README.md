@@ -1,6 +1,6 @@
 # Tic Tac Toe Android Game
 
-A modern implementation of the classic Tic Tac Toe game built with Jetpack Compose for Android.
+A modern implementation of the classic Tic Tac Toe game built with Jetpack Compose for Android, featuring an unbeatable AI opponent.
 
 ## Features
 
@@ -9,10 +9,22 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 - Sound effects and haptic feedback
 - Portrait mode gameplay
 - Two-player local multiplayer
+- Single player vs AI mode with perfect strategy
+- Unbeatable AI using Minimax algorithm with alpha-beta pruning
+- Strategic AI opening moves and position control
 
-## Upcoming Features 
-- Single player 
-- AI player 
+## Game Modes
+
+### Single Player vs AI
+- Challenge yourself against an unbeatable AI opponent
+- AI uses perfect strategy with Minimax algorithm
+- Multiple difficulty patterns through strategic positioning
+- Instant feedback and smooth animations
+
+### Two Player Local
+- Play against a friend on the same device
+- Turn-based gameplay with clear indicators
+- Victory and draw detection
 
 ## Technical Details
 
@@ -21,6 +33,13 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 - Target SDK: 34 (Android 14)
 - Uses Material 3 theming
 - Implements clean architecture principles
+- Version: 4.0.0
+
+### AI Implementation
+- Minimax algorithm with alpha-beta pruning
+- Strategic opening moves and position control
+- Optimal move calculation and prediction
+- Efficient board state evaluation
 
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
@@ -42,10 +61,17 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 - Kotlin 1.9.0
 - Android Gradle Plugin 8.1.0
 
+## Latest Updates (v4.0.0)
+
+- Added unbeatable AI opponent using Minimax algorithm
+- Implemented alpha-beta pruning for improved performance
+- Added strategic opening moves and position control
+- Enhanced UI feedback and game flow
+- Improved sound effects and animations
+- Bug fixes and performance improvements
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore, use, and contribute to this project! 😊
-
-
