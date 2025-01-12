@@ -13,6 +13,13 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 - Unbeatable AI using Minimax algorithm with alpha-beta pruning
 - Strategic AI opening moves and position control
 
+---
+
+## Upcoming Features 
+- Ultimate 5X5 Mode single player and AI
+- Ultimate 5X5 Mode double player 
+
+
 ## Game Modes
 
 ### Single Player vs AI
