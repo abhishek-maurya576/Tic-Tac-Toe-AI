@@ -19,6 +19,8 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 - Ultimate 5X5 Mode single player and AI
 - Ultimate 5X5 Mode double player 
 
+---
+
 
 ## Game Modes
 
