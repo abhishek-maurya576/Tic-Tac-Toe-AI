@@ -21,7 +21,6 @@ A modern implementation of the classic Tic Tac Toe game built with Jetpack Compo
 
 ---
 
-
 ## Game Modes
 
 ### Single Player vs AI
