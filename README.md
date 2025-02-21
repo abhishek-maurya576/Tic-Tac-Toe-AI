@@ -1,4 +1,4 @@
-# Tic Tac Toe Android Game
+# Tic Tac Toe Android Game 
 
 A modern implementation of the classic Tic Tac Toe game built with Jetpack Compose for Android, featuring an unbeatable AI opponent.
 
